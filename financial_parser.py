@@ -42,7 +42,7 @@ def categorise_ru_cpi(r, dframe):
 
 # ### Класс для сбора данных
 
-# In[106]:
+# In[4]:
 
 
 class FinancialInfo:
@@ -332,6 +332,9 @@ class FinancialInfo:
         df.index = pd.to_datetime(df.index, format='%d.%m.%Y')
         df = df.sort_index()
         df.index = df.index.strftime('%d.%m.%Y')
+        df = pd.merge(df, self.get_holidays(), how='left', left_index=True, right_index=True)
         
-        return pd.merge(df, self.get_holidays(), how='left', left_index=True, right_index=True)
+        df['workday'] = df['workday'].fillna('workday')
+        
+        return df
 
