@@ -1,13 +1,12 @@
 # Проект
 **План**
-- [аг 1. Выбор темы](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-1-выбор-темы)
+- [Шаг 1. Выбор темы](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-1-выбор-темы)
 - [Шаг 2. Сбор данных](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-2-сбор-данных)
-- [Шаг 3. Предварительная обработка](#Шаг-3.-Предварительная-обработка)
-- [Шаг 4. Визуализация](#Шаг-4.-Визуализация)
-- [Шаг 5. Создание новых признаков](Шаг-5.-Создание-новых-признаков)
-- [Шаг 6. Гипотезы](#Шаг-6.-Гипотезы)
-- [Шаг 7. Машинное обучение](#Шаг-7.-Машинное-обучение)
-
+- [Шаг 3. Предварительная обработка](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-3-предварительная-обработка)
+- [Шаг 4. Визуализация](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-4-визуализация)
+- [Шаг 5. Создание новых признаков](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-5-создание-новых-признаков)
+- [Шаг 6. Гипотезы](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-6-гипотезы)
+- [Шаг 7. Машинное обучение](https://github.com/evelinakolomoets/andan_project/blob/main/README.md#шаг-7-машинное-обучение)
 
 **Команда**
 - Коломоец Эвелина
